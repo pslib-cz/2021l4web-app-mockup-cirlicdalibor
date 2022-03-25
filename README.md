@@ -1,4 +1,5 @@
-#WhatsPoppin#
+#WhatsPoppin
+
 **Aplikace shromažďuje informace o aktuálních kulturních a společenských akcích od uživatelů a správců.**
 **Každá událost může mít vyplněné základní informace, jako jsou:**
 - název
