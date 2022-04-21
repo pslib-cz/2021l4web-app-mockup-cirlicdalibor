@@ -9,3 +9,19 @@ Aplikace uživateli nabídne přehled událostí konaných v nejbližší možn�
 ![návrh](https://github.com/pslib-cz/2021l4web-app-mockup-cirlicdalibor/blob/main/img/navrh.jpg)
 ## Barvy
 ![barvy](https://github.com/pslib-cz/2021l4web-app-mockup-cirlicdalibor/blob/main/navrhy/barvy.jpg)
+
+## Jak aplikace funguje
+Po spuštění se zobrazí načítací obrazovka s logem, ze které se po načtení uživatel dostane na úvodní stránku. Zde ho čeká přehled akcí konaných v jeho okolí v blízké době, přičemž nejprve musí aplikaci povolit sdílení polohy. Neučiní-li tak, bude muset polohu nastavit ručně v nastavení, které se nachází v pravém horním rohu. Naopak v levém horním rohu je ikonka pluska, kterým lze do databáze přidat událost. Podrobnosti o konaných událostech zobrazených na úvodní stránce lze zobrazit pomocí tlačítka *podrobnosti* u každé z událostí.
+
+V **nastavení** lze aplikaci povolit využívat informace o poloze uživatele, či povolit notifikace o nových událostech. Též zde uživatel určí, zda chce svou polohu určovat automaticky, či ji zadat ručně.
+
+Pro **přidání události** musí uživatel zadat
+- název události
+- začátek události (datum a čas - **nelze datovat do minulosti**)
+- konec události (datum a čas - **alespoň půl hodiny od začátku**)
+- místo konání (název místa)
+- adresu místa konání
+
+Dále může uživatel vložit banner události, případnou cenu za vstup a dodatečný popis k události.
+
+Na úvodní stranu se uživatel dostane vždy kliknutím na logo v levém horním rohu
