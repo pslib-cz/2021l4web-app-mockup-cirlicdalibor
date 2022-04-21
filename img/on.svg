@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <clipPath id="clip-Custom_Size_4">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_4" data-name="Custom Size – 4" clip-path="url(#clip-Custom_Size_4)">
+    <rect width="500" height="500" fill="#fff"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="500" height="267" rx="133.5" transform="translate(0 120)" fill="#013a63"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="97.5" cy="97.5" r="97.5" transform="translate(250 156)" fill="#fff"/>
+  </g>
+</svg>
