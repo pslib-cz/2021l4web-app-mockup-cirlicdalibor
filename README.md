@@ -17,6 +17,8 @@ Aplikace uživateli nabídne přehled událostí konaných v nejbližší možn�
 ## Jak aplikace funguje
 Po spuštění se zobrazí načítací obrazovka s logem, ze které se po načtení uživatel dostane na úvodní stránku. Zde ho čeká přehled akcí konaných v jeho okolí v blízké době, přičemž nejprve musí aplikaci povolit sdílení polohy. Neučiní-li tak, bude muset polohu nastavit ručně v nastavení, které se nachází v pravém horním rohu. Naopak v levém horním rohu je ikonka pluska, kterým lze do databáze přidat událost. Podrobnosti o konaných událostech zobrazených na úvodní stránce lze zobrazit pomocí tlačítka *podrobnosti* u každé z událostí.
 
+**Událost se po skončení automaticky smaže**
+
 V **nastavení** lze aplikaci povolit využívat informace o poloze uživatele, či povolit notifikace o nových událostech. Též zde uživatel určí, zda chce svou polohu určovat automaticky, či ji zadat ručně.
 
 Pro **přidání události** musí uživatel zadat
